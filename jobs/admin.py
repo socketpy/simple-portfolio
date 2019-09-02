@@ -8,7 +8,6 @@ from django.contrib import admin
 
 # Register your models here.
 
-
 # import class 'Job' di file 'models.py'
 from .models import Job
 
