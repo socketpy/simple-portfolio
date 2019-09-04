@@ -22,9 +22,6 @@ from django.db import models
 
 
 # Create your models here.
-
-
-
 # membuat class 'Job' dimana object 'models.Model' adalah milik Django
 # untuk membuat input data ke Database
 class Job(models.Model):
